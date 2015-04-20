@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=i
+comment0.target=SoundEffect\ getPing(int)
+comment1.params=soundFileName
+comment1.target=SoundEffect(java.lang.String)
+comment2.params=
+comment2.target=void\ play()
+comment3.params=
+comment3.target=void\ pause()
+comment4.params=
+comment4.target=void\ stop()
+comment5.params=
+comment5.target=void\ playIfNotPlaying()
+comment6.params=
+comment6.target=void\ init()
+numComments=7

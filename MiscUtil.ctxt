@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=a\ b
+comment0.target=double\ Maximum(double,\ double)
+comment1.params=WallX\ RelX\ RelY\ PlayerDeltaX\ PlayerDeltaY\ tMin\ MinY\ MaxY
+comment1.target=boolean\ TestWall(double,\ double,\ double,\ double,\ double,\ wrappedDouble,\ double,\ double)
+numComments=2

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=v2()
+comment1.params=x\ y
+comment1.target=v2(double,\ double)
+comment2.params=x\ y
+comment2.target=v2(int,\ int)
+comment3.params=b
+comment3.target=v2\ Add(v2)
+comment4.params=b
+comment4.target=v2\ Scale(double)
+comment5.params=b
+comment5.target=v2\ Scale(int)
+comment6.params=b
+comment6.target=double\ Inner(v2)
+numComments=7

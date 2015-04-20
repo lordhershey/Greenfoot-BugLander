@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=i
+comment0.target=void\ set(int)
+comment1.params=
+comment1.target=void\ setBlank()
+comment2.params=
+comment2.target=void\ setSelected()
+comment3.params=
+comment3.target=void\ act()
+numComments=4

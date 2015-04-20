@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=VolcanoBackground()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ VolcanoBackground.\r\n\ \r\n
+comment1.params=setting
+comment1.target=VolcanoBackground(int)
+comment2.params=
+comment2.target=void\ prepare()
+numComments=3

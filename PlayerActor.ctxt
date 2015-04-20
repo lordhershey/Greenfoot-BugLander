@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PlayerActor()
+comment1.params=
+comment1.target=void\ ToggleDarkerBody()
+comment2.params=
+comment2.target=boolean\ ShouldBreakOnLanding()
+comment3.params=
+comment3.target=void\ hitWithRock()
+comment4.params=
+comment4.target=void\ act()
+comment5.params=world
+comment5.target=void\ addedToWorld(greenfoot.World)
+numComments=6

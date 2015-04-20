@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ PointUp\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=rotation
+comment1.target=void\ setRotation(int)
+comment2.params=
+comment2.target=int\ getRotation()
+comment3.params=distance
+comment3.target=void\ move(int)
+comment4.params=x\ y
+comment4.target=void\ turnTowards(int,\ int)
+comment5.params=amount
+comment5.target=void\ turn(int)
+comment6.params=world
+comment6.target=void\ addedToWorld(greenfoot.World)
+numComments=7
